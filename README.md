@@ -1,3 +1,7 @@
+# Testing the possibility of using this paper to decode the model obfuscator approach.
+
+
+
 # NeuroUnlock
 
 This repository contains the source code of the scripts used for the paper [NeuroUnlock: Unlocking the Architecture of Obfuscated Deep Neural Networks @ IJCNN2022](https://doi.org/10.1109/IJCNN55064.2022.9892545).
